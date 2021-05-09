@@ -9,6 +9,14 @@ CPO1 -Lab session 6
 ***
 Objectif is to create an API to graph modelization
 
+Original UML Of Graph package:
+
+![UML Of Graph package(origine)](https://github.com/pagetArnaud/graphJava/blob/main/graph.png)
+
+***
+Final implementation:
+
+
 UML Of Graph package:
 
 ![UML Of Graph package](https://github.com/pagetArnaud/graphJava/blob/main/Package%20graph.png)
